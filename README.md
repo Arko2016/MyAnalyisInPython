@@ -1,1 +1,1 @@
-Conatins my learnings in Python
+Contains my learnings in Python
